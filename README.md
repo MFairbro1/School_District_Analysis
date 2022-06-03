@@ -51,4 +51,4 @@
 
 ## Summary
 
-### In the district summary, we see a slight decrease in all metrics except for the "Average Reading Score", which remains the same. In the school summary, we see      another slight decrease across all metrics for Thomas High School. The 9th grade score in "scores by grade" is replaced with NaN. In "scores by type" we see an overall decrease in the metrics, and a slight increase in "Average Reading Score" for charter schools.
+### In the district summary, we see a slight decrease in all metrics except for the "Average Reading Score", which remains the same. In the school summary, we see      another slight decrease across all metrics for Thomas High School. The 9th grade score in "scores by grade" is replaced with NaN for Thomas High School. In "scores by type" we see an overall decrease in the metrics, and a slight increase in "Average Reading Score" for charter schools.
